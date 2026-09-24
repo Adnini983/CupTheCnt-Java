@@ -111,3 +111,19 @@ This Java implementation preserves that file-layout behavior.
 - `0`: success
 - `1`: verification/I/O/batch failure
 - `2`: command-line usage error
+
+## License
+
+This Java implementation is licensed under the MIT License.
+
+### Relationship to the original CupTheCnt
+
+This project is an independent Java reimplementation of
+[toiry921/CupTheCnt](https://github.com/toiry921/CupTheCnt).
+
+The original CupTheCnt repository does not specify an open-source license.
+This project does not claim that the original C source code is licensed
+under the MIT License.
+
+The Java implementation in this repository is independently implemented
+and is licensed under the MIT License.

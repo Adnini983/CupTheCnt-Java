@@ -728,9 +728,18 @@ CIA 提取
 
 ---
 
-# 24. License
+## 许可证
 
-请根据原始 CupTheCnt 项目的许可证以及本 Java 重写项目实际采用的许可证使用和再发布。
+本 Java 实现采用 MIT 许可证。
+
+### 与原版 CupTheCnt 的关系
+
+本项目是对 [toiry921/CupTheCnt](https://github.com/toiry921/CupTheCnt) 的独立 Java 重写实现。
+
+原版 CupTheCnt 仓库未指定开源许可证。
+本项目并不声称原版 C 语言源代码采用 MIT 许可证。
+
+本仓库中的 Java 实现系独立编写，并采用 MIT 许可证。
 
 原项目：
 
